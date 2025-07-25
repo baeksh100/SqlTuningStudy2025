@@ -92,3 +92,6 @@
 [생성형 AI 업무 활용 Tip!](https://www.notion.so/AI-Tip-23bf8b7e2d1581db8784d3da00388d4a?pvs=21)
 
 [[2025 하계 한국항공대 디지털 역량 강화 캠프] 생성형 AI - A to Z 특강](https://padlet.com/aebon/2025-ai-a-to-z-gp73utbyt7mti37a)
+
+
+코드가 추가됩니다
